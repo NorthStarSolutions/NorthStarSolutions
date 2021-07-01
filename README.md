@@ -8,7 +8,7 @@ If you want to learn more about what I do, you can follow me on:
 
 - [11nty Blog](https://github.com/NorthStarSolutions/NSS-11nty-blog1.git)
 - [Codepen](https://codepen.io/wdsruk1/pen/YzZJmmm)
-- [Medium Blog](https://medium.com/@northstarsols)
+- [Medium Blog](https://medium.com/@northstarsols/jamstack-961042a8be08)
 
 
 <!--
